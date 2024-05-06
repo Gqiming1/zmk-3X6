@@ -15,6 +15,6 @@ if SHIELD_SWOOP_LEFT || SHIELD_SWOOP_RIGHT
 
 config ZMK_SPLIT
     default y
-
+endif # LEFT RIGHT
 
 
